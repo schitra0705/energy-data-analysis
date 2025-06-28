@@ -1,0 +1,18 @@
+2.1 Site with Highest DG Run Hours:
+Site ID: IZ1000049, DG Run Hours: 23.97
+
+2.2 Top 5 Sites with Highest Grid Run Hours:
+  Site ID  EB_RUNHRS_CONS
+IZ1000018           23.98
+IZ1000002           23.97
+IZ1000008           23.97
+IZ1000017           23.97
+IZ1000026           23.97
+
+2.3 Total Grid Consumption (KWH) for all 50 sites:
+13062.80 kWh
+
+2.4 Summary of Sites Based on POWER MODEL (M1, M5, M7):
+M1: 26
+M5: 23
+M7: 1
